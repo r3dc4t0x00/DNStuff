@@ -10,3 +10,6 @@ General repo containing information for validation and categorization of your do
 3.) DomainCat tool: https://github.com/l0gan/domainCat
 
 4.) Websense check: http://csi.websense.com/
+
+Check for expired/expiring domains:
+https://www.expireddomains.net/domain-name-search/
