@@ -11,5 +11,7 @@ General repo containing information for validation and categorization of your do
 
 4.) Websense check: http://csi.websense.com/
 
+5.) Check reputation: http://www.borderware.com/domain_lookup.php
+
 Check for expired/expiring domains:
 https://www.expireddomains.net/domain-name-search/
