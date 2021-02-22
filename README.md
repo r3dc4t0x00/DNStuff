@@ -4,6 +4,7 @@ DNS stuff for testing
 General repo containing information for validation and categorization of your domains in the event of an error in categorization:
 
 1.) Bluecoat review: https://sitereview.bluecoat.com/#/ 
+  -Select Web Security Service for BlueCoat
 
 2.) VirusTotal review: https://www.virustotal.com/gui/home/url
 
